@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **QuickEdu Live**
 
-- 💬 Ask me about **JavaScript ,React JS, MongoDB, Express JS &Node JS**
+- 💬 Ask me about **JavaScript ,React JS, MongoDB, Express JS & Node JS**
 
 - 📫 How to reach me **mdminhajurrahmancis@gmail.com**
 
