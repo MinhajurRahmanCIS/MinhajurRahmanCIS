@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I always think about fast food**
 
-- 🌐 My Best Project  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://quickedulive.web.app)" target="_blank" rel="noreferrer"> 🌐🎓</a>
+- 🌐 My Best Project **https://quickedulive.web.app**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
