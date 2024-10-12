@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I always think about fast food**
 
-- 🌐 My Best Project (https://quickedulive.web.app)
+- 🌐 My Best Project https://quickedulive.web.app
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
