@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Minhajur Rahman</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **QuickEdu Liv**
+- 🔭 I’m currently working on **QuickEdu Live**
 
 - 💬 Ask me about **JavaScript ,React JS, MongoDB, Express JS &Node JS**
 
