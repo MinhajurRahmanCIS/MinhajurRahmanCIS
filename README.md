@@ -1,4 +1,4 @@
-![I am_GitHub_Readme_Generator's_creator](https://github.com/MinhajurRahmanCIS/MinhajurRahmanCIS/blob/main/banner.png)
+![I am_GitHub_Readme_Generator's_creator](https://github.com/MinhajurRahmanCIS/MinhajurRahmanCIS/blob/main/update_banner.png)
 
 <h1 align="center">Hi 👋, I'm Md. Minhajur Rahman</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
