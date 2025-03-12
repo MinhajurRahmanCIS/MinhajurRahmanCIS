@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Md. Minhajur Rahman</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **QuickEdu Live**
+- 🔭 "I’m currently working at **Edutechs** as a **junior software developer**.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Next JS, MongoDB, Express JS & Node JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Firebase (Authentication, hosting & Realtime Database),  Next JS, MongoDB, Express JS & Node JS**
 
 - 📫 How to reach me **mdminhajurrahmancis@gmail.com**
 
