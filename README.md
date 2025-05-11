@@ -1,5 +1,12 @@
 ![I am_GitHub_Readme_Generator's_creator](https://github.com/MinhajurRahmanCIS/MinhajurRahmanCIS/blob/main/update_banner.png)
 
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Md. Minhajur Rahman</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
@@ -49,8 +56,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhajurRahmanCIS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <img src="https://raw.githubusercontent.com/MinhajurRahmanCIS/MinhajurRahmanCIS/output/snake.svg" alt="Snake animation" />
 
