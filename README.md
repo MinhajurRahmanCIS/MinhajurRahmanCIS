@@ -1,4 +1,4 @@
-![I am_GitHub_Readme_Generator's_creator](https://github.com/MinhajurRahmanCIS/MinhajurRahmanCIS/blob/main/update_banner.png)
+![I am_GitHub_Readme_Generator's_creator](https://github.com/MinhajurRahmanCIS/MinhajurRahmanCIS/blob/main/Banner.png)
 
 
 <div align="center">
