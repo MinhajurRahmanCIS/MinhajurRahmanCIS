@@ -1,18 +1,11 @@
 ![I am_GitHub_Readme_Generator's_creator](https://github.com/MinhajurRahmanCIS/MinhajurRahmanCIS/blob/main/Banner.png)
 
-
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/1JJnbY39/github-profile-picture.gif"  />
-</div>
-
 ###
 
-<h1 align="center">Hi 👋, I'm Md. Minhajur Rahman</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Md. Minhajur Rahman</h1>
+<h4 align="left">A passionate Software Developer from Bangladesh</h4>
 
 - 🔭 "I’m currently working at **Edutechs** as a **junior software developer**.
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Firebase (Authentication, hosting & Realtime Database),  Next JS, MongoDB, Express JS & Node JS**
 
 - 📫 How to reach me **mdminhajurrahmancis@gmail.com**
 
@@ -52,14 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhajurRahmanCIS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<img src="https://raw.githubusercontent.com/MinhajurRahmanCIS/MinhajurRahmanCIS/output/snake.svg" alt="Snake animation" />
 
 ###
 
